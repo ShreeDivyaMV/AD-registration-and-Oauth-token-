@@ -12,3 +12,6 @@ This token can be used further in the app to authenticate the request.
 For more details on performing these actions in UI- https://techcommunity.microsoft.com/t5/integrations-on-azure/secure-logic-app-http-endpoint-with-azure-ad-integration/ba-p/1450690
 
 
+Disclaimer: This script is provided 'as is'.Please test and modify as per your requirement. Any feedbacks on improving the script are always welcome.
+
+
